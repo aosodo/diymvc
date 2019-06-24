@@ -1,6 +1,5 @@
-dadadaad
-  
-dasadasd
+iii
  
-
-1111
+func asd {
+ echo 'asd'
+}
