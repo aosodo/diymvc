@@ -1,1 +1,5 @@
 iii
+ 
+func asd {
+ echo 'asd'
+}
