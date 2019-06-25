@@ -1,5 +1,2 @@
 iii
-123  
-func asd {
- echo 'asd'
-}
+345
