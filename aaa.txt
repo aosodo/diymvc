@@ -1,9 +1,5 @@
 iii
-<<<<<<< HEAD
-  
-=======
-                  
->>>>>>> ccc
+123  
 func asd {
  echo 'asd'
 }
